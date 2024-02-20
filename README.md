@@ -7,10 +7,6 @@
 
 ---
 <p align="center">
-	<a href="">
-		<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mongo,sqlite,docker,html,javascript,react,azure,ableton,bash,latex,flask">
-	</a>
-</p>
-<p align="center">
-  <img height="90%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=wlinds&show_icons=true&count_private=true&theme=github_dark_dimmed&hide_border=true&hide=issues,stars&bg_color=00000000&rank_icon=github">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mongo,sqlite,docker,html,javascript,react,azure,ableton,bash,latex,flask">
+    <img height="90%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=wlinds&show_icons=true&count_private=true&theme=github_dark_dimmed&hide_border=true&hide=issues,stars&bg_color=00000000&rank_icon=github">
 </p>
