@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**wlinds/wlinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<h1 align="center">Hi, I'm William.</h1>
 
-Here are some ideas to get you started:
+- 🎓 AI & Machine Learning student at [**IT-Högskolan**](https://www.iths.se).
+- 🌱 Software Developer and Machine Learning Engineer focused on TensorFlow & PyTorch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align="center">
+	<a href="">
+		<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mongo,sqlite,docker,html,javascript,react,azure,ableton,bash,latex,flask">
+	</a>
+</p>
+<p align="center">
+  <img height="90%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=wlinds&show_icons=true&count_private=true&theme=github_dark_dimmed&hide_border=true&hide=issues,stars&bg_color=00000000&rank_icon=github">
+</p>
