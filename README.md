@@ -1,5 +1,3 @@
-
----
 - 🎓 AI & Machine Learning student at [**IT-Högskolan**](https://www.iths.se).
 - 🌱 Software Developer and Machine Learning Engineer focused on TensorFlow & PyTorch.
 
