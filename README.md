@@ -1,4 +1,4 @@
-- 🌱 Software Developer and Machine Learning Engineer focused on TensorFlow & PyTorch.
+- 🌱 Full Stack Developer and Machine Learning Engineer focused on TensorFlow & PyTorch.
 
 ---
 <p align="center">
